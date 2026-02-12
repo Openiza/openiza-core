@@ -11,7 +11,7 @@
   <h1>Openiza</h1>
   <h3>Open Censorship-Resistant Connectivity Infrastructure</h3>
   <p>
-    <strong>]Open. Secure. Private. Resilient.</strong><br>
+    <strong>Open. Secure. Private. Resilient.</strong><br>
     Infrastructure designed for high-censorship environments.
   </p>
 
