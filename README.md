@@ -25,6 +25,13 @@
   <img src="https://img.shields.io/badge/funding-seeking_early_support-yellow" />
 
   <br><br>
+
+<p align="center">
+  <a href="#donate">
+    <img src="https://img.shields.io/badge/Support%20the%20Project-Donate-blue?style=for-the-badge" alt="Support the Project">
+  </a>
+</p>
+
 </div>
 
 ---
