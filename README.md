@@ -11,7 +11,7 @@
   <h1>Openiza</h1>
   <h3>Open Censorship-Resistant Connectivity Infrastructure</h3>
   <p>
-    <strong>Secure. Private. Resilient.</strong><br>
+    <strong>]Open. Secure. Private. Resilient.</strong><br>
     Infrastructure designed for high-censorship environments.
   </p>
 
@@ -39,7 +39,7 @@
 - <a href="#roadmap">Roadmap</a>
 - <a href="#principles">Principles</a>
 - <a href="#threat-model">Threat Model</a>
-- <a href="#funding">Funding & Support</a>
+- <a href="#donate">donate & Support</a>
 - <a href="#security-notice">Security Notice</a>
 - <a href="#contact">Contact</a>
 
@@ -71,11 +71,6 @@ Openiza is currently in the <strong>early research and infrastructure design pha
   <li>Threat model research ongoing</li>
   <li>Infrastructure funding required for scaling</li>
 </ul>
-
-<p>
-The official project name and public releases will be announced
-after initial funding and validation.
-</p>
 
 ---
 
@@ -109,7 +104,7 @@ Openiza follows a phased development strategy:
 
 <ul>
   <li><strong>Phase 1:</strong> Core server/client architecture + real-world resilience testing</li>
-  <li><strong>Phase 2:</strong> Automated and scalable node lifecycle management</li>
+  <li><strong>Phase 2:</strong> Automated and scalable servers node lifecycle management</li>
   <li><strong>Phase 3:</strong> Native client support (including Apple platforms)</li>
   <li><strong>Phase 4:</strong> Research and development of a next-generation open protocol</li>
 </ul>
@@ -188,7 +183,7 @@ Design decisions are made based on these assumptions.
 
 ---
 
-<h2 id="funding">💰 Funding & Support</h2>
+<h2 id="donate">💸 Support / Donate</h2>
 
 <p>
 Openiza is currently seeking early-stage funding to:
@@ -201,23 +196,65 @@ Openiza is currently seeking early-stage funding to:
   <li>Enable independent security audits</li>
 </ul>
 
-<p>
-If you are interested in supporting censorship-resilient infrastructure,
-please get in touch.
-</p>
+
 
 <p>
-⚡ Planned funding channels:
+If you want to support Openiza and help build censorship-resistant connectivity,
+you can send donations to the following cryptocurrency wallets:
 </p>
 
-<ul>
-  <li>Bitcoin (On-chain & Lightning)</li>
-  <li>BTCPay Server</li>
-  <li>Geyser Fund</li>
-  <li>Research grants</li>
-</ul>
+<div align="center">
 
----
+<table>
+  <thead>
+    <tr>
+      <th>Network</th>
+      <th align="left">Wallet Address</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bitcoin (BTC)</td>
+      <td><code>bc1q2eaxha57ukan8ku0v3rvjqlkk9def2ja8x4qvf</code></td>
+    </tr>
+    <tr>
+      <td>Ethereum (ETH)</td>
+      <td><code>0xE5Ed0F833f8540082d808E1B01005d6E3EE047f8</code></td>
+    </tr>
+    <tr>
+      <td>Solana (SOL)</td>
+      <td><code>6a6ExrEcahiV3LHHF4RLC3U7Apf7wCHNaAf2Jxtg2fta</code></td>
+    </tr>
+    <tr>
+      <td>Tron (TRX)</td>
+      <td><code>TMAP9vktV2tSuxBcqs2bjyJzNWZubJ2aqy</code></td>
+    </tr>
+    <tr>
+      <td>Monero (XMR)</td>
+      <td><code>8BXHtXyafRKicQH1CQ8Td7etbXtNWgFR2H6brUNFeyS3S3rgk1HTP89C8j3R49yu6PEhUoEEoz5emSkd1X9DHp1J68D8Um4</code></td>
+    </tr>
+    <tr>
+      <td>Lightning Network (BTC)</td>
+      <td><code>lno1pgqppmsrse80qf0aara4slvcjxrvu6j2rp5ftmjy4yntlsmsutpkvkt6878s85luvzda00v79fqj0dl06fut74gupd8s4t80c9zax9x37ff025fvqgpdek6hch3qfexre4k4kn9n9lfp8umkp84x3u3zlx9vwsrx7ntce5cqxw54al03mh7ul52glq9n7um4m03h3j4mll7scq3ucr3frr833yvta7nrzhj4typf6txh2g63hp5ju43tvycs8566txr2nd7eawedmfsl0zpvenwzyz6jnuszrsvrjypr4knn5z42qqe2eltv7ufpctyy4umj83wal7t077egc4746vkht9kc43wuftj2s38cu8znccms54kmcnkvcdezkjrza99s</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+<p align="center">
+Thank you for supporting privacy, freedom, and secure connectivity! 🙏
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+------------------
 
 <h2 id="security-notice">⚠️ Security Notice</h2>
 
