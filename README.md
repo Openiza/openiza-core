@@ -65,6 +65,9 @@ The project begins with a focus on Iran and is designed with region-specific
 threat modeling in mind.
 </p>
 
+  <img src="openiza-mocup.webp" alt="Openiza Logo" width="1500">
+
+  
 ---
 
 <h2 id="project-status">🚧 Project Status</h2>
@@ -76,7 +79,7 @@ Openiza is currently in the <strong>early research and infrastructure design pha
 <ul>
   <li>Core architecture under development</li>
   <li>Threat model research ongoing</li>
-  <li>Infrastructure funding required for scaling</li>
+  <li>Infrastructure funding required for development</li>
 </ul>
 
 ---
