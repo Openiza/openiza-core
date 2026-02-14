@@ -108,8 +108,7 @@ or weak region-specific threat modeling.
 
 <h2 id="solution-overview">🛠 Solution Overview</h2>
 <p>
-Existing tools often suffer from rapid detection, centralized infrastructure,
-or weak region-specific threat modeling.
+This project implements a phased, adaptive, and impact-driven approach to provide secure, censorship-resistant internet access for users in Iran.
 </p>
 
 <ul>
