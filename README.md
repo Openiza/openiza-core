@@ -107,21 +107,19 @@ or weak region-specific threat modeling.
 ---
 
 <h2 id="solution-overview">🛠 Solution Overview</h2>
-
 <p>
-Openiza follows a phased development strategy:
+Existing tools often suffer from rapid detection, centralized infrastructure,
+or weak region-specific threat modeling.
 </p>
 
 <ul>
-  <li><strong>Phase 1:</strong> Core server/client architecture + real-world resilience testing</li>
-  <li><strong>Phase 2:</strong> Automated and scalable servers node lifecycle management</li>
-  <li><strong>Phase 3:</strong> Native client support (including Apple platforms)</li>
-  <li><strong>Phase 4:</strong> Research and development of a next-generation open protocol</li>
+  <li>Immediate Access with Existing Tools and Protocols</li>
+  <li>Phased Client Development Across Platforms</li>
+  <li>Automated and Scalable Server Management</li>
+  <li>Long-Term Research and Open Protocol Design</li>
+  <li>User Safety and Privacy by Design</li>
 </ul>
 
-<p>
-The goal is not only circumvention — but sustainable infrastructure resilience.
-</p>
 
 ---
 
@@ -143,21 +141,22 @@ The goal is not only circumvention — but sustainable infrastructure resilience
 
 <h2 id="roadmap">🗺 Roadmap</h2>
 
-<p><strong>2026 (Initial Phase)</strong></p>
+
+<p>
+Openiza follows a phased development strategy:
+</p>
 
 <ul>
-  <li>Architecture stabilization</li>
-  <li>Controlled testing under real filtering conditions</li>
-  <li>Initial closed beta</li>
+  <li><strong>Phase 1:</strong> Core server/client architecture + real-world resilience testing</li>
+  <li><strong>Phase 2:</strong> Automated and scalable servers node lifecycle management</li>
+  <li><strong>Phase 3:</strong> Native client support (including Apple platforms)</li>
+  <li><strong>Phase 4:</strong> Research and development of a next-generation open protocol</li>
 </ul>
 
-<p><strong>Future Milestones</strong></p>
+<p>
+The goal is not only circumvention — but sustainable infrastructure resilience.
+</p>
 
-<ul>
-  <li>Public technical documentation (non-sensitive)</li>
-  <li>Open-source core components</li>
-  <li>Independent security review</li>
-</ul>
 
 ---
 
@@ -288,6 +287,9 @@ For funding, research collaboration, or security inquiries:
 
 <p>
 📧 <a href="mailto:openiza.team@proton.me">openiza.team@proton.me</a>
+</p>
+<p>
+🌐 <a href="https://openiza.com">openiza website</a>
 </p>
 
 ---
